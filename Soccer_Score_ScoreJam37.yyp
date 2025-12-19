@@ -3,7 +3,9 @@
   "resourceVersion": "1.6",
   "name": "Soccer_Score_ScoreJam37",
   "resources": [
+    {"id":{"name":"snd_kikc_ball","path":"sounds/snd_kikc_ball/snd_kikc_ball.yy",},"order":0,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":3,},
+    {"id":{"name":"snd_goal","path":"sounds/snd_goal/snd_goal.yy",},"order":1,},
     {"id":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},"order":0,},
     {"id":{"name":"spr_goal","path":"sprites/spr_goal/spr_goal.yy",},"order":4,},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":2,},
