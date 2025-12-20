@@ -1,6 +1,7 @@
 /// @description Inserir descrição aqui
 randomize();
-dir = choose(60, 120, 255, 315);
-time = game_get_speed(gamespeed_fps);
+time = game_get_speed(gamespeed_fps)*2;
 alarm[0] = time;
+delay = 12;
 spd_plus = 0.2;
+play_snd = true;

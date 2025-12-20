@@ -1,6 +1,7 @@
 /// @description Inserir descrição aqui
 x = xstart;
 y = ystart;
+global.go = true;
 audio_play_sound(snd_goal, 0, 0);
 speed = 0;
 alarm[0] = time;

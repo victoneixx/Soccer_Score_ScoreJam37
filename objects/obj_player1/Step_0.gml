@@ -1,4 +1,5 @@
 /// @description Inserir descrição aqui
+if(global.stop){exit}
 var _right = keyboard_check(ord("D"));
 var _left = keyboard_check(ord("A"));
 

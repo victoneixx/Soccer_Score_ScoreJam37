@@ -1,4 +1,5 @@
 /// @description Inserir descrição aqui
+if(global.stop){exit}
 var _right = keyboard_check(vk_right);
 var _left = keyboard_check(vk_left);
 
